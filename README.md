@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shyvante
 - 👀 I’m interested in Front End Development.
-- 🌱 I’m currently learning Front End Development on Meta.
+- 🌱 I’m currently learning Front End Development through Meta.
 - 💞️ I’m looking to collaborate on anything that won't give me a headache.
 - 📫 How to reach me ... via email @shymonroe5@gmail.com
 
